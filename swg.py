@@ -27,7 +27,7 @@ while round<=n:
             player_win += 1
     elif(opponent == 'g'):
         if(player == 's'):
-            player_win += 1
+            opponent_win += 1
         elif(player == 'w'):
             player_win += 1
     
