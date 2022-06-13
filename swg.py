@@ -1,7 +1,7 @@
 import random
 print("SNAKE - WATER - GUN")
 n = int(input("enter the number of rounds : "))
-options = ['s','S','W','w','G','g']]
+options = ['s','S','W','w','G','g']
 round = 1
 opponent_win = 0
 player_win = 0
